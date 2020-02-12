@@ -1,4 +1,3 @@
-RTL8197FS-VG
 
 ```bash
 Using built-in specs.

@@ -1,4 +1,3 @@
-bcm6755
 
 ```bash
 Using built-in specs.

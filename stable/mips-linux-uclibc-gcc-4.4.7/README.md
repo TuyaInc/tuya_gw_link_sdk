@@ -1,4 +1,3 @@
-rtl8196e
 
 ```bash
 Using built-in specs.
