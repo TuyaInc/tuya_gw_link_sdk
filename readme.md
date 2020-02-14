@@ -2,7 +2,7 @@
 
 ## overview
 
-TUYA_IPC_SDK is an integrated library&APIs, primarily for developing TUYA gateway products: Zigbee gateway, ZWAVE gateway and so on.
+tuya_gw_link_sdk is an integrated library&APIs, primarily for developing TUYA gateway products: Zigbee gateway, ZWAVE gateway and so on.
 
 feature :
 
