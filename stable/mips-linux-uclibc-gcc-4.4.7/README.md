@@ -1,3 +1,9 @@
+| SDK package     |  explain        |
+|---------------|-----------------------|
+|tuya_iot_iot_wf_gw_prj_<toolchain name>.tar.gz |  WIFI gateway. It support TUYA AP/EZ |
+|tuya_iot_iot_wired_tls_gw_<toolchain name>.tar.gz  | wired gateway |
+|tuya_iot_iot_wired_tls_gw_<toolchain name>.tar.gz | wired + WIFI gateway |
+
 
 ```bash
 Using built-in specs.
