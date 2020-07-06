@@ -28,6 +28,9 @@ feature :
 sh build_app.sh <app name> <version>
 ```
 
+If you want to support `product testing`, get [product testing SDK](https://github.com/TuyaInc/tuya_gw_pts_sdk.git).
+
+
 ## SDK manual 
 
 [TUYA DOCS center](https://docs.tuya.com/zh/iot/device-development/access-mode-link/linux-general-sdk/gerneral-link-module-sdk)
